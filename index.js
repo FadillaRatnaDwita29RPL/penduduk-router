@@ -1,4 +1,4 @@
-'use strict' //agar hanya ini yang dijalankannnnnnn
+'use strict' 
 
 //Inisialisasi
 const express = require("express")
